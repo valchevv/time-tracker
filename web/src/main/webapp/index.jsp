@@ -11,9 +11,10 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Super Simple Example Web Page release 2</h1>
   <p>
     This is a very simple example web page on a JSP.
+    Did some changes to check Jenkins deployment flow
   </p>
 </body>
 </html>
